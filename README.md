@@ -1,10 +1,10 @@
-# [canada-robotics-research-lists.github.io/canada-women-in-robotics-research](https://canada-robotics-research-lists.github.io/canada-women-in-robotics-research)
+# [canada-robotics-research-lists.github.io/canada-BIPOC-in-robotics-research](https://canada-robotics-research-lists.github.io/canada-BIPOC-in-robotics-research)
 
-This repo hosts the website listing current women in Canada doing robotics research. The code used to make this site came from the [US Women in Robotics list](https://github.com/us-women-in-robotics-research/us-women-in-robotics-research.github.io/). This site is currently maintained by a Ph.D. student from [Krzysztof (Chris) Skonieczny's Space Robotics Lab](https://users.encs.concordia.ca/~kskoniec/).
+This repo hosts the website listing current BIPOC in Canada doing robotics research. The code used to make this site came from the [US Women in Robotics list](https://github.com/us-women-in-robotics-research/us-women-in-robotics-research.github.io/). This site is currently maintained by a Ph.D. student from [Krzysztof (Chris) Skonieczny's Space Robotics Lab](https://users.encs.concordia.ca/~kskoniec/).
 
 ## Add Someone / Report Correction
 
-You can request to [add someone here](https://forms.gle/jv4PP1xtqMPwKhGR8). Please [report corrections or updates here](https://forms.gle/CiyHJzFNPYbr9SgH7).
+You can request to [add someone here](https://forms.gle/yxbNZRvXXoERb4Qm9). Please [report corrections or updates here](https://forms.gle/Uq5sJSmbQ8W81Tz1A).
 
 ## Want to make your own similar site?
 
